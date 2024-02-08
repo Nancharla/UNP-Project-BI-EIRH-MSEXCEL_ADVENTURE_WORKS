@@ -6,4 +6,4 @@ The AdventureWorks databases are sample databases that were originally published
 
 PDF FILE:https://drive.google.com/file/d/1BdjrbHAHYpPz8x863RbJoIshHWEo1iXd/view?usp=drive_link
 
-MSEXCEL:https://docs.google.com/spreadsheets/d/12DMRVHTdoEJkZDW2UNzJdNXJC3HAJTjB/edit?usp=sharing&ouid=101210445497677295041&rtpof=true&sd=true
+MSEXCEL:https://docs.google.com/spreadsheets/d/1WkRH05qlZL2OVltVUxGZcgAwDCv67XYC/edit?usp=sharing&ouid=101210445497677295041&rtpof=true&sd=true
